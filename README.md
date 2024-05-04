@@ -1,4 +1,4 @@
-# ATF_Challenge_Health
+# ATF_Challenge_Health_Status
 Overview
 This project focuses on predicting the 10-year risk of coronary heart disease (CHD) using machine learning techniques. The dataset is sourced from an ongoing cardiovascular study conducted on residents of Framingham, Massachusetts, and is available on Kaggle. It comprises over 4,000 records and includes 15 attributes related to demographic, behavioral, and medical risk factors.
 
